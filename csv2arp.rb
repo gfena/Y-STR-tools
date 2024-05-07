@@ -36,7 +36,7 @@ def construct_output(populations, locus_separator, missing_data_identifier)
     output << "   SampleData={\n"
 
 individuals.each do |individual|
-      index_spaces = 8 - (Math.log10(individual[:id] + 1).to_i + 1) # Calculate the number of spaces needed for indentation
+      index_spaces = 10 - (Math.log10(individual[:id] + 1).to_i + 1) # Calculate the number of spaces needed for indentation
       index_indentation = ' ' * index_spaces # Create the indentation string based on the number of spaces needed
 
       # Print the line with the index number
