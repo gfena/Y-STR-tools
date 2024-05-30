@@ -77,3 +77,4 @@ output = construct_output(populations, options[:separator], options[:missing_dat
 
 File.open(output_file, "w") { |file| file.write(output) }
 puts "Output written to #{output_file}"
+
