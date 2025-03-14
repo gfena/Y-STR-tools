@@ -1,5 +1,13 @@
 # Tools Repository
 
+If you use any of these scripts in a published analysis, please be sure to cite the article from which the scripts were derived:
+
+*unpublished data*
+
+Giacomo F. Ena
+
+Last updated: March 14, 2025
+
 # Index
 - csv2arp.rb | Tool to convert from raw STR data to Arlequin (arp) format
 - weightedrho_parallel | Updated version of weightedrho by F.Calafell https://github.com/fcalafell/weighted_rho; now works with flags and multithreading and accepts optional arguments
