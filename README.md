@@ -2,7 +2,7 @@
 
 If you use any of these scripts in a published analysis, please be sure to cite the article from which the scripts were derived:
 
-*unpublished data*
+Ena, G. F., Giménez, A., Carballo-Mesa, A., Araújo Castro e. Silva, M., & Comas, D. (2025). Demographic insights into paternal genetic diversity and regional substructure in the Spanish Roma. BMC Genomics, 26(1), 1012. doi: 10.1186/s12864-025-12210-8
 
 Giacomo F. Ena
 
