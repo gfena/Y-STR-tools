@@ -6,7 +6,7 @@ Ena, G. F., Giménez, A., Carballo-Mesa, A., Araújo Castro e. Silva, M., & Coma
 
 Giacomo F. Ena
 
-Last updated: March 14, 2025
+Last updated: 03/12/2025
 
 # Index
 - csv2arp.rb | Tool to convert from raw STR data to Arlequin (arp) format
